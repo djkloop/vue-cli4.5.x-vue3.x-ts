@@ -8501,6 +8501,11 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.npm.taobao.org/vue-template-es2015-compiler/download/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha1-HuO8mhbsv1EYvjNLsV+cRvgvWCU=
 
+vue-toastification@^1.7.6:
+  version "1.7.6"
+  resolved "https://registry.npm.taobao.org/vue-toastification/download/vue-toastification-1.7.6.tgz#c720ed5a2e0182f1fd45c562a7858f45539a9918"
+  integrity sha1-xyDtWi4BgvH9RcVip4WPRVOamRg=
+
 vue@^3.0.0-0:
   version "3.0.0-rc.5"
   resolved "https://registry.npm.taobao.org/vue/download/vue-3.0.0-rc.5.tgz?cache=0&sync_timestamp=1595984018055&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvue%2Fdownload%2Fvue-3.0.0-rc.5.tgz#973175d45a892b3bd23ef5de7faa4add9c66275f"

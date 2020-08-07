@@ -2,12 +2,12 @@
  * @Author        : djkloop
  * @Date          : 2020-08-06 17:15:09
  * @LastEditors   : djkloop
- * @LastEditTime  : 2020-08-06 17:44:50
+ * @LastEditTime  : 2020-08-07 12:01:52
  * @Description   : 头部注释
  * @FilePath      : /vue3.x/src/router/index.ts
  */
 import { createRouter, createWebHashHistory, RouteRecordRaw } from "vue-router";
-import Home from "../views/Home";
+import Home from "../views/Home/Home";
 
 const routes: Array<RouteRecordRaw> = [
   {
